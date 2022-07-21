@@ -1,4 +1,3 @@
-
 # ICTP-SAIFR/Serrapilheira — Introduction to Scientific Programming (R) - 2022
 Demo project developed during the classes of the course Introduction to Scientific Programming of the Serrapilheira/ICTP-SAIFR Training Program in Quantitative Biology and Ecology (to which the organisers referred as Computational Methods [a bit confusingly]). Here the code shall be in R. There is another repository with the same mostly the same code translated to Julia.
 
@@ -14,7 +13,7 @@ project/
 *    │   └── processed
      ├── docs/
 *    ├── figs/
-     ├── R/
+     ├── src/
 *    ├── output/
 *    └── README.md
 ```
